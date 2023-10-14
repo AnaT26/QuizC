@@ -16,7 +16,7 @@ export default [
       ],
     },
     {
-      question: "Onde foi nosso priemeiro beijo?",
+      question: "Onde foi nosso primeiro beijo?",
       answers: [
         { option: "Cobal", correct: false },
         { option: "Calourada", correct: false },
@@ -24,7 +24,7 @@ export default [
       ],
     },
     {
-      question: "Qual Musica eu dediquei pra você?",
+      question: "Qual musica eu dediquei pra você?",
       answers: [
         { option: "Idiota", correct: false },
         { option: "Trevo", correct: false },
