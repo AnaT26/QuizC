@@ -8,7 +8,7 @@ export default [
       ],
     },
     {
-      question: "Qual foi nosso priemeiro date?",
+      question: "Qual foi nosso primeiro date?",
       answers: [
         { option: "Jantar", correct: false },
         { option: "Cinema", correct: true },
