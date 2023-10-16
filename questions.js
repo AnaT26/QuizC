@@ -12,7 +12,7 @@ export default [
       answers: [
         { option: "Jantar", correct: false },
         { option: "Cinema", correct: true },
-        { option: "Pizzada", correct: false },
+        { option: "Feira de São Cristovão", correct: false },
       ],
     },
     {
